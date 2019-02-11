@@ -2,3 +2,4 @@
 add: 변경 사항을 만들어서 인덱스에 등록해 보기
 commit: 인덱스 상태 기록
 merge: 머지 추가
+issue2 branch 활동
