@@ -12,4 +12,11 @@ search_enabled: true
 # Enable or disable heading anchors
 heading_anchors: true
 
+# Aux links for the upper right navigation
+aux_links:
+  "Architecture & Module on GitHub":
+    - "//github.com/wootaik/MyTest_Jtd"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
 
