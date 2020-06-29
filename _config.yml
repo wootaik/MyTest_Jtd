@@ -1,6 +1,6 @@
 title: "Architecture Design & Module Implementation"
 description: Embedded Control System Design Guideline
-baseurl: "/ArchModule" # the subpath of your site, e.g. /blog
+baseurl: "/MyTest_Jtd" # the subpath of your site, e.g. /blog
 url: "https://wootaik.github.io" 
 
 remote_theme: pmarsceill/just-the-docs
