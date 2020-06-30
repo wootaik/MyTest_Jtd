@@ -1,7 +1,8 @@
 ---
-title: ModularProgramming.md
+title: ModularProgramming
 author: Wootaik Lee (wootaik@gmail.com)  
 date: 2020-03-01
+nav_order: 1
 ---
 
 # 객체지향 프로그래밍: 모듈화 프로그래밍이란?
